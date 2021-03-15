@@ -1,5 +1,5 @@
 from turtle import *
-
+#1
 bob = Turtle()
 speed(-100)
 penup()
@@ -13,6 +13,7 @@ for i in range(2):
     forward(500)
     left(90)
 end_fill()
+# 2
 color("black")
 penup()
 goto(250,-151)
@@ -25,6 +26,7 @@ for i in range(2):
     forward(200)
     left(90)
 end_fill()
+#3
 penup()
 forward(200)
 pendown()
@@ -37,6 +39,7 @@ forward(143)
 left(135)
 forward(200)
 end_fill()
+#4
 penup()
 right(90)
 forward(200)
@@ -51,11 +54,13 @@ for x in range(2):
     right(90)
     forward(30)
 end_fill()
+#5
 right(90)
 forward(35)
 color("black")
 right(90)
 forward(10)
+#6
 penup()
 forward(80)
 left(90)
@@ -68,7 +73,7 @@ for i in range(2):
     forward(50)
     right(90)
 end_fill()
-
+#7
 forward(24)
 right(90)
 
@@ -80,7 +85,7 @@ for i in range(2):
     forward(2)
     right(90)
 end_fill()
-
+#8
 left(90)
 penup()
 forward(26)
@@ -96,7 +101,7 @@ for i in range(2):
     forward(2)
     right(90)
 end_fill()
-
+#9
 penup()
 right(90)
 forward(75)
@@ -110,7 +115,7 @@ for i in range(2):
     forward(50)
     left(90)
 end_fill()
-
+#10
 forward(24)
 left(90)
 
@@ -122,7 +127,7 @@ for i in range(2):
     forward(2)
     left(90)
 end_fill()
-
+#11
 left(90)
 penup()
 forward(24)
@@ -138,8 +143,7 @@ for i in range(2):
     forward(2)
     left(90)
 end_fill()
-
-# slonce
+#12
 penup()
 goto(-270,220)
 pendown()
@@ -147,8 +151,7 @@ color("yellow")
 begin_fill()
 circle(35)
 end_fill()
-
-# chmury
+#13
 color("white")
 penup()
 goto(200,250)
@@ -184,6 +187,6 @@ pendown()
 begin_fill()
 circle(15)
 end_fill()
-
+#14
 bgcolor("green")
 done()
