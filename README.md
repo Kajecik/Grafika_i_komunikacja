@@ -30,4 +30,5 @@ Stworzenie słońca
 Stworzenie chmury
 ### 14
 Wypełnienie drugiej części ekranu (podzielonego na poczatku programu) zielonym kolorem - w domyslę trawą
-
+#### Obrazek
+[Obraz](https://zapodaj.net/625bb0fa05b86.png.html)
